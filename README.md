@@ -26,7 +26,7 @@ Apenas alguns exercicios para treinar a criação de sites para a internet com o
 
 Você pode visualizar o layout do projeto feito com a ajuda do Professor Alcides Teixeira e como ele funciona através do conteudo das aulas abaixo ou pelo link em <a href="#-hospedagem">Hospedagem</a>.<br>
 
-Conteúdos de aula:
+Conteúdo das aulas:
 <!-- * **[Aula 00:](https://github.com/https-shini)** Introdução -->
 * Aula 01: Apresentação do plano de ensino
 * Aula 02: Iniciando o uso do Visual Studio Code
